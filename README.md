@@ -1,4 +1,4 @@
-# Train_test_predict-of-ConvLSTM-in-ECCO-data
+# Train_test_predict-of-ConvLSTM-in-Altimetry-data
 This package contains the code used in the academic paper "Sea Level Prediction in the Kuroshio Extension Region Based on ConvLSTM".
 train.py is the training code. test.py is the test code. predict.py is the prediction code, which is used to generate the prediction set.
 
